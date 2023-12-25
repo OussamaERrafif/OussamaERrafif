@@ -2,8 +2,6 @@
 ## 👨‍💻 Software Engineer | 💡 Tech Enthusiast
 
 - **Email:** [oussamaerrafif@gmail.com](mailto:oussamaerrafif@gmail.com) 📧
-- **Phone:** [+212628836023](tel:+212628836023) 📱
-- **Location:** HAY MOHAMADI, AGADIR 🌍
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/oussama-errafif-5155b5247/) 🔗
 - **GitHub:** [Check out my projects](https://github.com/OussamaERrafif) 🚀
 - **HackerRank:** [Solve problems together](https://www.hackerrank.com/oussamaerra2002) ⚙️
