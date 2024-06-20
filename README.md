@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm oussama</h1>
-<h3 align="center">A passionate frontend developer from morocco</h3>
+<h3 align="center">A passionate dullstack developer from morocco</h3>
 
 - 💬 Ask me about **pytyon**
 
